@@ -1,0 +1,3 @@
+﻿  cstdio.cpp
+e:\bai\cstd\cstd\cstdio_test\cstdio_test\cstdio.cpp(175): warning C4244: “参数”: 从“fpos_t”转换到“long”，可能丢失数据
+  cstdio_test.vcxproj -> E:\bai\cstd\cstd\cstdio_test\Debug\cstdio_test.exe

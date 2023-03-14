@@ -1,0 +1,4 @@
+﻿  Source.c
+f:\cstd\ctype_test\ctype_test\source.c(131): warning C4013: 'system' undefined; assuming extern returning int
+f:\cstd\ctype_test\ctype_test\source.c(122): warning C4305: 'initializing': truncation from 'int' to 'char'
+  ctype_test.vcxproj -> F:\cstd\ctype_test\Debug\ctype_test.exe

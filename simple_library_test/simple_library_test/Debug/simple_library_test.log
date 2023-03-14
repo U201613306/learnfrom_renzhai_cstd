@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 对路径“f:\cstd\simple_library_test\debug\simple_library_test.exe”的访问被拒绝。
+  simple_c_array_string.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_core\simple_c_array\simple_c_array_string.c(65): warning C4013: “remove_char_end”未定义；假设外部返回 int
+  string_algorithm.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_core\simple_c_string_algorithm\string_algorithm.c(106): warning C4129: “%”: 不可识别的字符转义序列
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_core\simple_c_string_algorithm\string_algorithm.c(175): warning C4090: “初始化”: 不同的“const”限定符
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_core\simple_c_string_algorithm\string_algorithm.c(292): warning C4129: “%”: 不可识别的字符转义序列
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_core\simple_c_string_algorithm\string_algorithm.c(365): warning C4090: “初始化”: 不同的“const”限定符
+  simple_guid.c
+  simple_file_helper.c
+  simple_c_path.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_path\simple_c_path.c(11): warning C4013: “remove_string_start”未定义；假设外部返回 int
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_path\simple_c_path.c(39): warning C4013: “replace_char_inline”未定义；假设外部返回 int
+  simple_c_locale_list.c
+  simple_c_time.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_time\simple_c_time.c(73): warning C4090: “函数”: 不同的“const”限定符
+  simple_c_windows_register.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_windows\simple_c_windows_register.c(94): warning C4047: “函数”:“HKEY”与“HKEY *”的间接级别不同
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_windows\simple_c_windows_register.c(94): warning C4024: “RegCloseKey”: 形参和实参 1 的类型不同
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_core_minimal\simple_c_windows\simple_c_windows_register.c(87): warning C4090: “初始化”: 不同的“const”限定符
+  simple_c_windows_setting.c
+  simple_c_log.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\public\simple_c_log\simple_c_log.h(10): warning C4091: “typedef ”: 没有声明变量时忽略“e_error”的左侧
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_c_log\simple_c_log.c(31): warning C4133: “函数”: 从“char [9]”到“const time_t *const ”的类型不兼容
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_c_log\simple_c_log.c(33): warning C4129: “:”: 不可识别的字符转义序列
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_c_log\simple_c_log.c(34): warning C4129: “:”: 不可识别的字符转义序列
+f:\cstd\simple_library_test\simple_library_test\simple_library\private\simple_c_log\simple_c_log.c(103): warning C4133: “函数”: 从“char [9]”到“const time_t *const ”的类型不兼容
+  源.c
+f:\cstd\simple_library_test\simple_library_test\simple_library\public\simple_c_log\simple_c_log.h(10): warning C4091: “typedef ”: 没有声明变量时忽略“e_error”的左侧
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“F:\cstd\simple_library_test\Debug\simple_library_test.exe”
